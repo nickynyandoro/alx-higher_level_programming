@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 if_name_=="_main_":
     """Print all names defined by_4 module."""
     import hidden_4
